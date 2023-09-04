@@ -10,10 +10,10 @@
 
 ### COURS[](RECURSIVITE_COURS.ipynb)
 
-#### [Notebook d'exercices](exercices_recursion.ipynb) => correction[](exercices_recursion.ipynb)
+#### [Notebook d'exercices](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/01/exercices_recursion.ipynb) => correction[](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/01/exercices_recursion.ipynb)
 
-#### [travail personnel](RECURSIVITE_TRAVAIL_PERSO.ipynb)
+#### [travail personnel](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/01/RECURSIVITE_TRAVAIL_PERSO.ipynb)
 
 #### QCM [entraînement](https://genumsi.inria.fr/qcm.php?h=cf4244c08fa38c7c0e611edfac246f7b)
 
-#### retour sur le [problème du sac à dos](PbSacADos.ipynb) => correction[](PbSacADos_correction.ipynb)
+#### retour sur le [problème du sac à dos](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/01/PbSacADos.ipynb) => correction[](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/01/PbSacADos_correction.ipynb)
