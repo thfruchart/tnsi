@@ -14,6 +14,6 @@
 
 #### [travail personnel](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/01/RECURSIVITE_TRAVAIL_PERSO.ipynb)
 
-#### QCM [entraînement](https://genumsi.inria.fr/qcm.php?h=cf4244c08fa38c7c0e611edfac246f7b)
+#### QCM entraînement[](https://genumsi.inria.fr/qcm.php?h=cf4244c08fa38c7c0e611edfac246f7b)
 
 #### retour sur le [problème du sac à dos](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/01/PbSacADos.ipynb) => correction[](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/01/PbSacADos_correction.ipynb)
