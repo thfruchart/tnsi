@@ -108,7 +108,7 @@ Ecrire chaque requête dans une nouvelle cellule et penser à  **enregistrer** v
 
 Toutes les questions se réfèrent à la base de données **bibliotheque** contenant les tables `auteur` et `livre`.
 
-1. Afficher le nombre de lignes de la table **auteurs**
+1. Afficher le nombre de lignes de la table **auteur**
 2. Afficher le nom de tous les **auteurs** dont le prénom est 'René'
 3. Afficher (sans répétition) le nom de tous les **auteurs** dont le prénom est 'René'
 4. Afficher le nom et le prénom de tous les **auteurs** dont le prénom commence par G
