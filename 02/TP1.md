@@ -114,6 +114,6 @@ Toutes les questions se réfèrent à la base de données **bibliotheque** conte
 4. Afficher le nom et le prénom de tous les **auteurs** dont le prénom commence par G
 5. Afficher le titre de tous les **livres** dont l'année est antérieure à 2000, et dont le titre commence par L
 6. Afficher le titre, l'isbn et l'année de tous les **livres** dont l'éditeur est **Dargaud**, classés par année croissante.
-7. Afficher le titre, l'isbn et l'année de tous les **livres** dont l'éditeur est **J'ai lu**, classés par année décroissante.
+7. Afficher le titre, l'isbn et l'année de tous les **livres** dont l'éditeur est **J'ai Lu**, classés par année décroissante.
 
 
