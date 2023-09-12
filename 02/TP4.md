@@ -1,6 +1,6 @@
 # Contraintes garanties par le SGBD (système de gestion de la base de données)
 
-Pour commencer, [ouvrir dans Basthon le notebook exemple](https://notebook.basthon.fr/?kernel=sql&from=https://raw.githubusercontent.com/thfruchart/tnsi/main/03/exemple.ipynb&module=https://raw.githubusercontent.com/thfruchart/tnsi/main/02/livres.sql)
+Pour commencer, [ouvrir dans Basthon le notebook exemple](https://notebook.basthon.fr/?kernel=sql&from=https://raw.githubusercontent.com/thfruchart/tnsi/main/02/exemple.ipynb&module=https://raw.githubusercontent.com/thfruchart/tnsi/main/02/livres.sql).
 
 ## Contraintes de domaine
 * A chaque colonne d'une table est associé un **domaine**, qui correspond à
