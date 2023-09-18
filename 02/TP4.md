@@ -22,7 +22,7 @@ Quelques explications s'imposent :
 * cette clé primaire correspond ici au champ (ou colonne):  `a_id`
 * pour chaque ligne de la table, la clé primaire doit permettre d'identifier cette ligne de manière **unique**
 * ici, la clé primaire  `a_id` permet de s'assurer que deux lignes différentes de la table ne peuvent pas avoir un `a_id` identique!
-   * il est donc impossible d'insérer une nouvelle ligne dans la table s'il existe déjà une ligne avec le même isbn : ici **19**
+   * il est donc impossible d'insérer une nouvelle ligne dans la table s'il existe déjà une ligne avec le même `a_id` : ici **19**
    * il est également impossible de modifier une valeur du champ à_id` sans tenir compte de la contrainte d'unicité.
 * pour exécuter la requête d'insertion, il est nécessaire de choisir une valeur de la clé primaire **unique** dans toute la table : ici la valeur **119** conviendrait. 
 
