@@ -1,9 +1,9 @@
 CREATE TABLE `Personnels` (
-  `id` int(10) INT PRIMARY KEY,
+  `id` INT PRIMARY KEY,
   `nom` varchar(40) NOT NULL,
   `prenom` varchar(40) NOT NULL,
   `date_nais` date DEFAULT NULL,
-  `sexe` enum('M','F') NOT NULL,
+  `sexe` varchar(1) NOT NULL,
   `fonction` varchar(30) NOT NULL,
   `salaire` decimal(7,2) NOT NULL
 ) 
@@ -24,11 +24,11 @@ INSERT INTO `Personnels` (`id`, `nom`, `prenom`, `date_nais`, `sexe`, `fonction`
 
 
 CREATE TABLE `Races` (
-  `id` int(10) INT PRIMARY KEY,
+  `id`  INT PRIMARY KEY,
   `nom` varchar(60) NOT NULL,
   `type_food` enum('Carnivore','Herbivore','Omnivore') NOT NULL,
-  `aquatique` tinyint(1) NOT NULL,
-  `duree_vie` tinyint(4) NOT NULL
+  `aquatique` INT NOT NULL,
+  `duree_vie` INT NOT NULL
 ) 
 
 INSERT INTO `Races` (`id`, `nom`, `type_food`, `aquatique`, `duree_vie`) VALUES(1, 'Chien', 'Omnivore', 0, 14);
@@ -45,9 +45,9 @@ INSERT INTO `Races` (`id`, `nom`, `type_food`, `aquatique`, `duree_vie`) VALUES(
 
 
 CREATE TABLE `Soigneurs` (
-  `id` int(10) INT PRIMARY KEY,
-  `pers` int(10) INT NOT NULL,
-  `race` int(10) INT NOT NULL,
+  `id`  INT PRIMARY KEY,
+  `pers`  INT NOT NULL,
+  `race`  INT NOT NULL,
   FOREIGN KEY (pers) REFERENCES Personnels(id),
   FOREIGN KEY (race) REFERENCES Races(id)
 )
@@ -79,8 +79,8 @@ INSERT INTO `Soigneurs` (`id`, `pers`, `race`) VALUES(23, 10, 10);
 
 
 CREATE TABLE `Animaux` (
-  `id` int(10) INT PRIMARY KEY,
-  `race` int(10) INT NOT NULL,
+  `id`  INT PRIMARY KEY,
+  `race`  INT NOT NULL,
   `date_nais` date DEFAULT NULL,
   `sexe` enum('M','F') DEFAULT NULL,
   `pseudo` varchar(40) NOT NULL,
@@ -142,10 +142,10 @@ INSERT INTO `Animaux` (`id`, `race`, `date_nais`, `sexe`, `pseudo`, `commentaire
 CREATE TABLE `Enclos` (
   `zone` char(3) PRIMARY KEY,
   `nom` varchar(40) NOT NULL,
-  `capacite` smallint(6) DEFAULT NULL,
-  `taille` smallint(6) DEFAULT NULL,
-  `eau` tinyint(1) DEFAULT NULL,
-  `responsable` int(10) INT DEFAULT NULL,
+  `capacite` INT DEFAULT NULL,
+  `taille` INT DEFAULT NULL,
+  `eau` INT DEFAULT NULL,
+  `responsable` INT DEFAULT NULL,
   FOREIGN KEY (responsable) REFERENCES Personnels(id)
 ) 
 
@@ -160,8 +160,8 @@ INSERT INTO `Enclos` (`zone`, `nom`, `capacite`, `taille`, `eau`, `responsable`)
 
 
 CREATE TABLE `Loc_animaux` (
-  `id` int(10) INT PRIMARY KEY,
-  `animal` int(10) INT NOT NULL,
+  `id` INT PRIMARY KEY,
+  `animal` INT NOT NULL,
   `enclos` char(3) DEFAULT NULL,
   `date_arrivee` date NOT NULL,
   `date_sortie` date DEFAULT NULL,
