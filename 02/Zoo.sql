@@ -1,5 +1,5 @@
 CREATE TABLE `Personnels` (
-  `id` int(10) UNSIGNED PRIMARY KEY,
+  `id` int(10) INT PRIMARY KEY,
   `nom` varchar(40) NOT NULL,
   `prenom` varchar(40) NOT NULL,
   `date_nais` date DEFAULT NULL,
@@ -24,7 +24,7 @@ INSERT INTO `Personnels` (`id`, `nom`, `prenom`, `date_nais`, `sexe`, `fonction`
 
 
 CREATE TABLE `Races` (
-  `id` int(10) UNSIGNED PRIMARY KEY,
+  `id` int(10) INT PRIMARY KEY,
   `nom` varchar(60) NOT NULL,
   `type_food` enum('Carnivore','Herbivore','Omnivore') NOT NULL,
   `aquatique` tinyint(1) NOT NULL,
@@ -45,9 +45,9 @@ INSERT INTO `Races` (`id`, `nom`, `type_food`, `aquatique`, `duree_vie`) VALUES(
 
 
 CREATE TABLE `Soigneurs` (
-  `id` int(10) UNSIGNED PRIMARY KEY,
-  `pers` int(10) UNSIGNED NOT NULL,
-  `race` int(10) UNSIGNED NOT NULL,
+  `id` int(10) INT PRIMARY KEY,
+  `pers` int(10) INT NOT NULL,
+  `race` int(10) INT NOT NULL,
   FOREIGN KEY (pers) REFERENCES Personnels(id),
   FOREIGN KEY (race) REFERENCES Races(id)
 )
@@ -79,8 +79,8 @@ INSERT INTO `Soigneurs` (`id`, `pers`, `race`) VALUES(23, 10, 10);
 
 
 CREATE TABLE `Animaux` (
-  `id` int(10) UNSIGNED PRIMARY KEY,
-  `race` int(10) UNSIGNED NOT NULL,
+  `id` int(10) INT PRIMARY KEY,
+  `race` int(10) INT NOT NULL,
   `date_nais` date DEFAULT NULL,
   `sexe` enum('M','F') DEFAULT NULL,
   `pseudo` varchar(40) NOT NULL,
@@ -145,7 +145,7 @@ CREATE TABLE `Enclos` (
   `capacite` smallint(6) DEFAULT NULL,
   `taille` smallint(6) DEFAULT NULL,
   `eau` tinyint(1) DEFAULT NULL,
-  `responsable` int(10) UNSIGNED DEFAULT NULL,
+  `responsable` int(10) INT DEFAULT NULL,
   FOREIGN KEY (responsable) REFERENCES Personnels(id)
 ) 
 
@@ -160,8 +160,8 @@ INSERT INTO `Enclos` (`zone`, `nom`, `capacite`, `taille`, `eau`, `responsable`)
 
 
 CREATE TABLE `Loc_animaux` (
-  `id` int(10) UNSIGNED PRIMARY KEY,
-  `animal` int(10) UNSIGNED NOT NULL,
+  `id` int(10) INT PRIMARY KEY,
+  `animal` int(10) INT NOT NULL,
   `enclos` char(3) DEFAULT NULL,
   `date_arrivee` date NOT NULL,
   `date_sortie` date DEFAULT NULL,
