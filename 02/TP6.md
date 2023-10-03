@@ -51,7 +51,7 @@ Bien garder en mémoire la structure :  `SELECT ... FROM ... [JOIN... ON ...] WH
 5. ça y est : je peux finaliser la requête, en pensant au `;`
 
 
-Pour chacune des questions ci-dessous, écrire **une** requête SQL dans le [notebook suivant](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/02/ZOO.ipynb)
+Pour chacune des questions ci-dessous, écrire **une** requête SQL dans le [notebook suivant](https://notebook.basthon.fr/?kernel=sql?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/02/ZOO.ipynb)
 
 # Questions
 1. Combien y a-t-il d'animaux dans le zoo?
