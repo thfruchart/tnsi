@@ -5,3 +5,4 @@
 ### Exercice de type BAC
 * [sujetA](BAC2021-SujetA.pdf)
 * [sujetB](BAC2021-SujetB.pdf)
+* [sujetC](BAC2021-SujetC.pdf)
