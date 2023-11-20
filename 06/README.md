@@ -1,5 +1,5 @@
 # Piles et Files
-### [COURS] :# (COURS_COMPLET_Piles_Files.ipynb)
+### [COURS](COURS_COMPLET_Piles_Files.ipynb)
 * [Activité 1](Act1.ipynb)
 * [Activité 2](Act2.ipynb)
 
