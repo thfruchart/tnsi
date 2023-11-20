@@ -1,3 +1,4 @@
 # Entraînements pour l'épreuve pratique
 * [SujetA](SujetA)
-* [**SujetB**](SujetB)
+* [SujetB](SujetB)
+* [**SujetC**](SujetC)
