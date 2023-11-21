@@ -6,4 +6,6 @@
 * [séance du 20 nov.](COURS_20nov.ipynb)
 * [COURS Complet](COURS_Piles_Files.ipynb)
 
-### [EXERCICES](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/06/EXOS_Pile_File.ipynb)
+### Exercices
+* [Exercices papier](EXERCICES-Piles-Files.pdf)
+* [Exercices Python](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/06/EXOS_Pile_File.ipynb)
