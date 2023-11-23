@@ -8,4 +8,4 @@
 
 ### Exercices
 * [Exercices papier](EXERCICES-Piles-Files.pdf)
-* [Exercices Python](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/06/EXOS_Pile_File.ipynb)
+* [Exercices Python](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/06/EXOS_Pile_File.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/06/EXO_PF_CORR.ipynb)
