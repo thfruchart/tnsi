@@ -11,3 +11,4 @@ Depôt de NSI : Terminale A
 * [langage SQL et notion de base de données](02)
 ## Architecture réseau et systèmes d'exploitation
 * [Gestion des processus](05)
+* [Routage](07)
