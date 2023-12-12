@@ -1,6 +1,6 @@
 # Arbres binaires de recherche
 * [Activité1](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/09/Act1_ABR.ipynb)
-* [Activité2](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/09/Act2_ABR.ipynb)
+* [Activité2](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/09/Act2_ABR.ipynb) => [corr(12 déc.)](Act2-12dec.ipynb)
 
 ### COURS[](COURS_ABR.ipynb)
 
