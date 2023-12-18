@@ -184,9 +184,10 @@ App()
 B.3 Compléter votre code pour :
 1. empêcher le serpent de "sortir" de la fenêtre : si c'est le cas, la partie est perdue.
 2. créer une pomme, que le serpent pourra "manger"
-  1. lors de la création, la pomme est 'en dehors' du serpent
-  2. si la tête du serpent est au même lieu que la pomme, le serpent "mange" la pomme : celle-ci disparaît, et le serpent grandit d'une unité.
-  3. un nouvelle pomme est générée à un autre endroit (en dehors du serpent)
+  * lors de la création, la pomme est 'en dehors' du serpent
+  * si la tête du serpent est au même lieu que la pomme, le serpent "mange" la pomme : celle-ci disparaît, et le serpent grandit d'une unité.
+  * un nouvelle pomme est générée à un autre endroit (en dehors du serpent)
 3. créer une variable score :
-  1. chaque fois que le serpent mange la pomme, le score augmente de 1.
-  2. prévoir un affichage du score. 
+  * chaque fois que le serpent mange la pomme, le score augmente de 1.
+  * prévoir un affichage du score, pendant la partie et en fin de partie
+  * prévoir la possibilité de rejouer
