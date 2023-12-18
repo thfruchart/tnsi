@@ -52,6 +52,42 @@ class App:
 App()
 
 ```
+#### images
+Pyxel permet de manipuler des images.
+* pour cela, un fichier ressource doit être chargé
+  * l'usage est d'enregistrer la ressource et le code dans le même répertoire.
+  * dans l'exemple suivant, la ressource est : `test.pyxres`
+  * [test.pyxres](test.pyxres)
+* on peut visualiser (et éditer) la ressource de la manière suivante :
+  * dans le menu de Tonny : Outils/Ouvrir la console du système
+  * dans la console : `pyxel edit test.pyxres`
+* tester et adapter le code suivant :
+```python
+import pyxel
+
+DELAI = 5
+
+class App:
+    def __init__(self):
+        pyxel.init(160, 120)
+        pyxel.load("test.pyxres")
+        self.x = 0
+        self.y = 0
+        pyxel.run(self.update, self.draw)
+
+    def update(self):
+        if pyxel.frame_count % DELAI == 0 :
+            self.x = (self.x + 1) % pyxel.width
+            self.y = (self.y + 2) % pyxel.height
+        
+    def draw(self):
+        pyxel.cls(0)
+        x_img,y_img,w_img,h_img = 8,0,8,16
+        pyxel.blt(self.x, self.y,0,x_img,y_img,w_img,h_img)
+
+App()
+
+```
 
 ## Exemple : "serpent"
 
