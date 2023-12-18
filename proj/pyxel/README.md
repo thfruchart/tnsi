@@ -1,5 +1,5 @@
 # Découverte de pyxel
-## Un premier exemple
+## A. Un premier exemple
 ```python
 import pyxel
 
@@ -22,9 +22,9 @@ class App:
 App()
 ```
 * [Documentation](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md#documentation-de-lapi)
-* Exécuter le code exemple avec Edupyter-Thonny
+* A.1. Exécuter le code exemple avec Edupyter-Thonny
   * modifier certaines des valeurs numériques, et comprendre le rôle de chaque paramètre, en s'aidant de la documentation.
-* Mêmes consignes avec le code suivant :
+* A.2. Mêmes consignes avec le code suivant :
 
 ```python
 import pyxel
@@ -52,7 +52,7 @@ class App:
 App()
 
 ```
-#### images
+#### A.3. images
 Pyxel permet de manipuler des images.
 * pour cela, un fichier ressource doit être chargé
   * l'usage est d'enregistrer la ressource et le code dans le même répertoire.
@@ -89,7 +89,7 @@ App()
 
 ```
 
-## Exemple : "serpent"
+## B. Exemple : "serpent"
 
 ```python
 import pyxel
@@ -132,9 +132,7 @@ class App:
 App()
 
 ```
-* tester le code ci-dessus
-* compléter la méthode `update` afin que le serpent de déplace dans les quatre directions (sans grandir à chaque étape)
-
+* B.1. tester le code ci-dessus
 ```python
 import pyxel
 
@@ -181,7 +179,14 @@ class App:
         
 App()
 ```
+* B.2. en vous aidans du code ci-dessus, compléter la méthode `update` afin que le serpent de déplace dans les quatre directions (sans grandir à chaque étape)
 
-Compléter votre code pour :
+B.3 Compléter votre code pour :
 1. empêcher le serpent de "sortir" de la fenêtre : si c'est le cas, la partie est perdue.
-2. 
+2. créer une pomme, que le serpent pourra "manger"
+  1. lors de la création, la pomme est 'en dehors' du serpent
+  2. si la tête du serpent est au même lieu que la pomme, le serpent "mange" la pomme : celle-ci disparaît, et le serpent grandit d'une unité.
+  3. un nouvelle pomme est générée à un autre endroit (en dehors du serpent)
+3. créer une variable score :
+  1. chaque fois que le serpent mange la pomme, le score augmente de 1.
+  2. prévoir un affichage du score. 
