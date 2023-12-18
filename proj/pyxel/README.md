@@ -144,3 +144,8 @@ class App:
             pyxel.rect(x*CASE, y*CASE, CASE, CASE, couleur)         
         
 App()
+```
+
+Compléter votre code pour :
+1. empêcher le serpent de "sortir" de la fenêtre : si c'est le cas, la partie est perdue.
+2. 
