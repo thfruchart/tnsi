@@ -18,3 +18,4 @@
 ## projets de l'année
 
 1. [de multiple en diviseurs](MultiDiv-projet.ipynb)
+2. [pyxel](pyxel)
