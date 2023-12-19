@@ -179,7 +179,8 @@ class App:
         
 App()
 ```
-* B.2. en vous aidans du code ci-dessus, compléter la méthode `update` afin que le serpent de déplace dans les quatre directions (sans grandir à chaque étape)
+
+* B.2. en vous aidant du code ci-dessus, compléter la méthode `update` afin que le serpent de déplace dans les quatre directions (sans grandir à chaque étape)
 
 B.3 Compléter votre code pour :
 1. empêcher le serpent de "sortir" de la fenêtre : si c'est le cas, la partie est perdue.
