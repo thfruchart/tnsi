@@ -183,7 +183,9 @@ App()
 
 B.3 Compléter votre code pour :
 1. empêcher le serpent de "sortir" de la fenêtre : si c'est le cas, la partie est perdue.
-2. créer une pomme, que le serpent pourra "manger"
+   * on peut utiliser `pyxel.quit()` pour mettre fin au jeu
+   * une autre possibilité est de créer un booléen `self.gameover` pour mettre fin à la partie, en contrôlant l'affichage de fin de partie, ce qui permet de créer un menu du type "voulez-vous rejouer?"... 
+3. créer une pomme, que le serpent pourra "manger"
   * lors de la création, la pomme est 'en dehors' du serpent
   * si la tête du serpent est au même lieu que la pomme, le serpent "mange" la pomme : celle-ci disparaît, et le serpent grandit d'une unité.
   * un nouvelle pomme est générée à un autre endroit (en dehors du serpent)
