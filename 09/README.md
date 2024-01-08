@@ -5,4 +5,5 @@
 ### [COURS](COURS_ABR.ipynb)
 
 * [Exercices](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/09/EXERCICES_ABR.ipynb)  [](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/09/.ipynb)
-* [ExoBac](BAC-21-MCL2-EXO3.pdf)
+* [ExoBac1](BAC-21-MCL2-EXO3.pdf)
+* [ExoBac2](23-NSIJ2LI1-ex3.pdf)
