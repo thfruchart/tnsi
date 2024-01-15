@@ -1,4 +1,4 @@
 ## Sujet H
-* [énoncé](22-NSI-27.pdf)
-* [code python pour l'exercice 2](22-NSI-27.py)
-* [correction](SujetH_CORRECTION.ipynb)
+* [énoncé](Sujet.pdf)
+* [code python pour l'exercice 2](code.py)
+
