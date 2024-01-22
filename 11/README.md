@@ -10,6 +10,7 @@
 ## Chiffrement asymétrique
 * [fiche méthode (page2)](Fiche%20m%C3%A9thode%20chiffrement.pdf)
 * [activité 2](Activit%C3%A9-Chiffrement-ASYMETRIQUE.pdf)
+* [vidéo : signatures numériques](https://www.youtube.com/watch?v=t3pzkDRgQW8&list=PLOapGKeH_KhFBC39ltMDhkEx1aI3hlwSK&index=5)
 
 ## Le protocole HTTPS
 * voir le paragraphe dédié sur la [page suivante](https://pixees.fr/informatiquelycee/n_site/nsi_term_archi_secu.html)
