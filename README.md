@@ -10,7 +10,8 @@ Depôt de NSI : Terminale A
 * [Arbres binaires](08)
 * [Arbres binaires de recherche](09)
 * [Diviser-Régner](10)
-* [Graphes](11)
+* [Sécurité des communications](11)
+* [Graphes](12)
 ## Bases de données
 * [langage SQL et notion de base de données](02)
 ## Architecture réseau et systèmes d'exploitation
