@@ -12,3 +12,4 @@
 * [Notebook : recherche d'une meilleure solution](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/Taquin_TP.ipynb)
   *  [TP](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/Taquin_TP.ipynb)
   *  [TP version1](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/TaquinTP1.ipynb)
+  *  [TP version2](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/TaquinTP2.ipynb)
