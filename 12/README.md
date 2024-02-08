@@ -13,3 +13,4 @@
   *  [TP](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/Taquin_TP.ipynb)
   *  [TP version1](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/TaquinTP1.ipynb)
   *  [TP version2](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/TaquinTP2.ipynb)
+* [Notebook : ajout d'une métrique pour améliorer la recherche](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/Taquin_avec_metrique.ipynb)
