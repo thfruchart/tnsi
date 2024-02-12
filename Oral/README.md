@@ -1,5 +1,25 @@
 # [Présentation du grand oral](https://eduscol.education.fr/729/presentation-du-grand-oral#summary-item-3)
 
+> L’élève choisit ses questions, le professeur l’accompagne dans ce choix. L’énoncé de la
+question est le point final d’une réflexion qui fait l’objet d’un temps de maturation. Ce
+travail est donc progressif et s’affine avec l’avancée du programme et l’appropriation des
+notions. Les questions émanent d’une quête durant laquelle l’élève précise ses intérêts, les
+thématiques qu’il souhaite approfondir, les éléments qu’il souhaite mettre en avant dans
+un esprit d’ouverture de sa spécialité. De cette quête peuvent émerger des questions
+variées. Au-delà des thématiques reprenant des contenus du programme du cycle
+terminal de l’enseignement de spécialité, l’entrée de l’élève peut être le choix de ses
+spécialités dans un parcours d’orientation, des exemples de notions qui ont changé son
+regard ou lui ont apporté des clés de lecture, des obstacles didactiques auxquels il a été
+confronté.
+> Dans cet esprit, pour la deuxième partie du Grand oral, le jury aide l’élève à poursuivre sa
+quête, à aller plus loin. Il ne s’agit nullement de piéger l’élève ou de contrôler des
+connaissances que l’on estimerait fragiles. À ce titre, le jury veille à développer un climat
+bienveillant, mettant le candidat en situation de confiance dans un esprit de « curiosité de
+l’autre». Le dialogue doit s’installer, pour l’élève comme pour le jury, avec une qualité
+d’écoute et une exigence d’intelligibilité, de précision de l’expression et de clarté du
+propos.
+
+
 ## Exemples proposés pour construire sa propre question
 
 ### L’histoire de l’informatique
