@@ -12,6 +12,7 @@ Depôt de NSI : Terminale A
 * [Diviser-Régner](10)
 * [Sécurité des communications](11)
 * [Graphes](12)
+* [Programmation dynamique](13)
 ## Bases de données
 * [langage SQL et notion de base de données](02)
 ## Architecture réseau et systèmes d'exploitation
