@@ -19,7 +19,6 @@ RAFRAICHISSEMENT = 0.01
 
 
 def animate_ball(animal):
-    global canvas, Window
     
     taille = animal.taille
     sprite = canvas.create_oval(animal.position.x - taille,
@@ -31,7 +30,6 @@ def animate_ball(animal):
     
     while True :
         animal.maj_position()        
-        #canvas.move(sprite, animal.vitesse.x , animal.vitesse.y)   
         canvas.coords(sprite, 
             animal.position.x - taille,
             animal.position.y - taille,
