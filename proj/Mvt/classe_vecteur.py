@@ -70,12 +70,13 @@ class Vecteur:
     def normalisation(self):
         # Transforme le vecteur courant en un vecteur de norme 1. Opération très courante
         # même s'il est probable que c'est la première fois que vous entendez ce terme
-        # Si le vecteur est nul, on ne peut pas le normaliser. On renvoie une
-        # erreur dans ce cas. Si on veut arreter le programme)on peut remplacer le test par : 
+        # Si le vecteur est nul, on ne peut pas le normaliser => on affiche un message
+        # d'erreur dans ce cas. Si on veut arreter le programme, on peut remplacer le test par : 
         # assert norme != 0 , "ERREUR : erreur de normalisation, vecteur nul" 
         # ou encore
         # if norme == 0 : 
         #   raise ValueError('ERREUR : erreur de normalisation, vecteur nul')
+        
         norme = self.norme()
         if norme == 0 :
             print("AVERTISSEMENT : erreur de normalisation, vecteur nul")
