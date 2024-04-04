@@ -1,4 +1,4 @@
-### [site d'exercices pratiques NSI](https://e-nsi.forge.aeif.fr/pratique/A/)
+### [site d'exercices pratiques NSI](https://codex.forge.apps.education.fr/exam/)[](https://e-nsi.forge.aeif.fr/pratique/A/)
 * [Train en POO](Train_POO.ipynb)
 
 # Entraînements pour l'épreuve pratique
