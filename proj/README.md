@@ -20,3 +20,4 @@
 1. [de multiple en diviseurs](MultiDiv-projet.ipynb)
 2. [pyxel](pyxel)
 3. [Mouvement de masse](Mvt)
+4. [Tutoriel NdC](https://nuitducode.github.io/DOCUMENTATION/PYTHON/TUTORIELS/3-tutoriel-detaille-terminale/)
