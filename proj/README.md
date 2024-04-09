@@ -20,4 +20,4 @@
 1. [de multiple en diviseurs](MultiDiv-projet.ipynb)
 2. [pyxel](pyxel)
 3. [Mouvement de masse](Mvt)
-4. [Tutoriel NdC](https://nuitducode.github.io/DOCUMENTATION/PYTHON/TUTORIELS/3-tutoriel-detaille-terminale/) + [doc](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md#documentation-de-lapi) + [pyxelstudio](https://www.pyxelstudio.net/)
+4. [Tutoriel NdC](https://nuit-du-code.forge.apps.education.fr/DOCUMENTATION/PYTHON/TUTORIELS/3-tutoriel-detaille-terminale/) + [doc](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md#documentation-de-lapi) + [pyxelstudio](https://www.pyxelstudio.net/)
