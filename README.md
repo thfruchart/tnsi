@@ -13,6 +13,8 @@ Depôt de NSI : Terminale A
 * [Sécurité des communications](11)
 * [Graphes](12)
 * [Programmation dynamique](13)
+* [Calculabilité](14)
+* [Recherche textuelle](15)
 ## Bases de données
 * [langage SQL et notion de base de données](02)
 ## Architecture réseau et systèmes d'exploitation
