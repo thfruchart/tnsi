@@ -1,5 +1,5 @@
 # Algorithme de Boyer-Moore
 Recherche d'une séquence dans une chaîne
 
-* [Introduction](INTRO.ipynb)
-* [Cours à compléter](COURS.ipynb)
+* [Introduction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/15/INTRO.ipynb)
+* [Cours à compléter](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/15/COURS.ipynb)
