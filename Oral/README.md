@@ -23,6 +23,7 @@ propos.
 * [BlockChain](https://andersbrownworth.com/blockchain/)
 * [Craquer un mot de passe](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/Oral/Force_brute.ipynb)
 * [FUN Mooc IA](https://www.fun-mooc.fr/fr/cours/lintelligence-artificielle-avec-intelligence/)
+* [OpenClassRoom IA](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle)
 ## Exemples proposés pour construire sa propre question
 
 ### L’histoire de l’informatique
