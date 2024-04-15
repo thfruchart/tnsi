@@ -19,3 +19,4 @@
 #### pour réviser
 * [QCM](https://genumsi.inria.fr/qcm.php?h=42e79daa368be2cee841fa24d00bc3f7)
 * [Murder Mystery](https://edenmaths.gitlab.io/bcpst1/2022_23/INFORMATIQUE/12_sql/#sql-murder-mystery)
+* [Notion de SGBD](https://www.maths-info-lycee.fr/pdfs/tnsi_04_BD_cours.pdf)
