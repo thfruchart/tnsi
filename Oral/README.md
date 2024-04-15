@@ -19,7 +19,9 @@ l’autre». Le dialogue doit s’installer, pour l’élève comme pour le jury
 d’écoute et une exigence d’intelligibilité, de précision de l’expression et de clarté du
 propos.
 
-
+### quelques liens utiles
+* [BlockChain](https://andersbrownworth.com/blockchain/)
+* [Craquer un mot de passe](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/Oral/Force_brute.ipynb)
 ## Exemples proposés pour construire sa propre question
 
 ### L’histoire de l’informatique
