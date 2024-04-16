@@ -20,3 +20,4 @@ Depôt de NSI : Terminale A
 ## Architecture réseau et systèmes d'exploitation
 * [Gestion des processus](05)
 * [Routage](07)
+* [SOC](16)
