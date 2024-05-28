@@ -1,7 +1,7 @@
 ### [site d'exercices pratiques NSI](https://codex.forge.apps.education.fr/exam/)[](https://e-nsi.forge.aeif.fr/pratique/A/)
 * [sujet3... à terminer](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/EP/Sujet3.ipynb)
 * [Train en POO](Train_POO.ipynb)
-
+Pour mémoire [2024](https://glassus.github.io/terminale_nsi/T6_6_Epreuve_pratique/BNS_2024/)
 # Entraînements pour l'épreuve pratique
 * [SujetA](SujetA)
 * [SujetB](SujetB)
