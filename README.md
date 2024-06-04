@@ -1,6 +1,7 @@
 # tnsi
 Depôt de NSI : Terminale A
 * [épreuve pratique](EP)
+* [sujets d'épreuve écrite](https://www.education.gouv.fr/reussir-au-lycee/bac-2024-les-sujets-des-epreuves-ecrites-de-specialite-414414)
 
 ## Programmation et Algorithmique
 * [Récursivité](./01)
