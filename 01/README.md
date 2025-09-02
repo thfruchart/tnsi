@@ -17,6 +17,6 @@
 
 #### QCM 
 * [entraînement](https://genumsi.inria.fr/qcm.php?h=cf4244c08fa38c7c0e611edfac246f7b)
-* [évaluation](https://genumsi.inria.fr/qcm.php?h=2dc4c8508c1aa38e2a4eeb5913222f91)
+* [EVALUATION Récursion](https://genumsi.inria.fr/qcm.php?h=2dc4c8508c1aa38e2a4eeb5913222f91)
 
 #### retour sur le [problème du sac à dos](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/01/PbSacADos.ipynb)  => correction[](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/01/PbSacADos_correction.ipynb)
