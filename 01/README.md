@@ -8,7 +8,7 @@
 * [exemple6](https://pythontutor.com/visualize.html#code=def%20copy%28a%20%3Aint%20,b%20%3A%20str%29%3A%0A%20%20%20%20if%20a%3D%3D1%3A%0A%20%20%20%20%20%20%20%20return%20b%0A%20%20%20%20else%20%3A%0A%20%20%20%20%20%20%20%20return%20copy%28%20a-1%20,%20b%2Bb%29%0A%0Aprint%28copy%283,'%3F'%29%29&cumulative=false&curInstr=1&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
 
 ### COURS
-* [](RECURSIVITE_COURS.ipynb)
+* [Récursivité](RECURSIVITE_COURS.ipynb)
 
 #### [Notebook d'exercices](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/01/exercices_recursion.ipynb)  => correction[](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/01/exercices_recursion.ipynb)
 * observation exo5 sur [Python tutor](https://pythontutor.com/render.html#code=def%20deplace_et_compte%28k,depart,arrivee,interm%29%3A%0A%20%20%20%20%23%20case%20de%20base%0A%20%20%20%20if%20k%20%3D%3D%201%20%3A%0A%20%20%20%20%20%20%20%20print%28depart,%20%22%20%3D%3E%20%22,%20arrivee%29%0A%20%20%20%20%20%20%20%20return%201%0A%20%20%20%20else%20%3A%20%23%20cas%20r%C3%A9cursif%0A%20%20%20%20%20%20%20%20debut%20%3D%20deplace_et_compte%28k-1,depart,interm,arrivee%29%0A%20%20%20%20%20%20%20%20print%28depart,%20%22%20%3D%3E%20%22,%20arrivee%29%0A%20%20%20%20%20%20%20%20fin%20%3D%20deplace_et_compte%28k-1,interm,arrivee,depart%29%20%20%0A%20%20%20%20%20%20%20%20return%20debut%20%2B%201%20%2B%20fin%0A%0Adeplace_et_compte%283,'A',%20'C',%20'B'%29&cumulative=false&curInstr=0&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
