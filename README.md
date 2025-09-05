@@ -14,7 +14,7 @@ Depôt de NSI : terminale
 * [Calculabilité](14)
 * [Recherche textuelle](15)
 ## Bases de données
-* [langage SQL et notion de base de données](02)
+* [**langage SQL et notion de base de données**](02)
 ## Architecture réseau et systèmes d'exploitation
 * [Gestion des processus](05)
 * [Routage](07)
