@@ -18,6 +18,7 @@
 * observation 2 sur exo 5 [Python tutor](https://pythontutor.com/render.html#code=def%20deplace_et_compte%28k,depart,arrivee,interm%29%3A%0A%20%20%20%20%23%20case%20de%20base%0A%20%20%20%20if%20k%20%3D%3D%201%20%3A%0A%20%20%20%20%20%20%20%20print%28depart,%20%22%20%3D%3E%20%22,%20arrivee%29%0A%20%20%20%20%20%20%20%20return%201%0A%20%20%20%20else%20%3A%20%23%20cas%20r%C3%A9cursif%0A%20%20%20%20%20%20%20%20cpt%20%3D%200%0A%20%20%20%20%20%20%20%20cpt%20%2B%3D%20deplace_et_compte%28k-1,depart,interm,arrivee%29%0A%20%20%20%20%20%20%20%20print%28depart,%20%22%20%3D%3E%20%22,%20arrivee%29%0A%20%20%20%20%20%20%20%20cpt%20%2B%3D%201%0A%20%20%20%20%20%20%20%20cpt%20%2B%3D%20deplace_et_compte%28k-1,interm,arrivee,depart%29%20%20%0A%20%20%20%20%20%20%20%20return%20cpt%0A%0Adeplace_et_compte%283,'A',%20'C',%20'B'%29&cumulative=false&curInstr=10&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
 
 #### [AlgoPratique](https://pratique.forge.apps.education.fr/algo/30-rec/)
+* [récursivité mathématique](https://pratique.forge.apps.education.fr/algo/30-rec/30-maths/)
 #### QCM 
 * [entraînement](https://genumsi.inria.fr/qcm.php?h=cf4244c08fa38c7c0e611edfac246f7b)
 * [EVALUATION Récursion](https://genumsi.inria.fr/qcm.php?h=2dc4c8508c1aa38e2a4eeb5913222f91)
