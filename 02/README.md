@@ -19,6 +19,6 @@
   - requêtes de mise à jour : [énoncé](SQL-MiseAJour.pdf) + [notebook](https://notebook.basthon.fr/?kernel=sql&ipynb=eJylk9Fu2jAUhl_FMjeJ5AsSaDPCFa3cCo3RNaSTqlEhN_Eq1sRmsaNBES_Qp9jtnoMX2zE2LWknNGm58fHxf77_HMtZ44wXhcLx1zUuuWY50wzH6w3Z5Wd6teA4xiWrHnP5U2CClayrzORarRY6Y4orlHOUSyG2vyGOUUKvb7bPKZ2YfDlXHG1_oe9QhTek4YF1VSvNcxxDwN84ZjLnh27nCR2kFKWDsxFFS48hNByn9JIm6HMy_DRIbtFHekumAjW_-xfdVPj9qWhgVl72j5j8GObpoJv3pQcW7w_5kcKLq4QOL8emIY_5cK0XNKHjc7hXGN8_rs8aepjTt31PxXA8oUlqXK_QEn0ZjG5A4AUk8AnyQhKapWOXrl1O7Nkp6Zklgl2_iVm9YHpWE7RJ0N4FgUsA2CY6pGODrjtx9OB0XxKZ4I3D02GjgUOExEJMg44CtRHp7DBAISdO1yMfXIGR2gmNT89Oabz3k7Zdo-GrT0T2zUZAAmUf3iVf8qzWcylmmayFxnFAsKz1otbmV7r7n5f-N7qoi6JpcEcaBo-8ErxQC56ZnWClIakfBcDyuVoUbDVzycn1CJIFEw81e9irNtCTuP8mq5KBW_d1MyvnQlY4Djd_AKMjHRw)
 
 #### pour réviser
-* [QCM](https://genumsi.inria.fr/qcm.php?h=42e79daa368be2cee841fa24d00bc3f7)
+* [SQL Entraînement](https://genumsi.inria.fr/qcm.php?h=f445e56c612076dacb2c17886cbbd421)
 * [Murder Mystery](https://edenmaths.gitlab.io/bcpst1/2022_23/INFORMATIQUE/12_sql/#sql-murder-mystery)
 * [Notion de SGBD](https://www.maths-info-lycee.fr/pdfs/tnsi_04_BD_cours.pdf)
