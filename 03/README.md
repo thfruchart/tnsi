@@ -6,3 +6,4 @@
   * [corrigé ex. 3](exo3-Fraction.py)
 
 * [QCM(objets)](https://genumsi.inria.fr/qcm.php?h=d8fc9a6a55708f57b8d17f77e7f8f92a)
+* [exercice pratique: chien en poo](https://e-nsi.gitlab.io/pratique/N2/700-poo_chien/sujet/)
