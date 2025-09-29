@@ -5,3 +5,4 @@
   * [corrigé ex. 2](exo2-Date.py)
   * [corrigé ex. 3](exo3-Fraction.py)
 
+* [QCM(objets)](https://genumsi.inria.fr/qcm.php?h=d8fc9a6a55708f57b8d17f77e7f8f92a)
