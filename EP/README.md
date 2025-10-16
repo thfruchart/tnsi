@@ -1,2 +1,2 @@
 # Epreuve pratique
-* [sujet1](sujet1)
+* [sujet1](Sujet1)
