@@ -1,7 +1,7 @@
 # Piles et Files
 
 ### COURS
-* [COURS](COURS_Piles_Files.ipynb)
+* [COURS](COURS_sans_corr.ipynb) [](COURS_Piles_Files.ipynb)
 
 ### Activités
 * [Activité 1](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/06/Act1.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/06/Act1_CORR.ipynb)
