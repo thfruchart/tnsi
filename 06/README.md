@@ -1,9 +1,13 @@
 # Piles et Files
+
+### COURS
+* [COURS](COURS_Piles_Files.ipynb)
+
+### Activités
 * [Activité 1](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/06/Act1.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/06/Act1_CORR.ipynb)
 * [Activité 2](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/06/Act2.ipynb)  => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/06/Act2_CORR.ipynb)
 
-### COURS
-* [](COURS_Piles_Files.ipynb)
+
 
 ### Exercices
 * [Exercices papier](EXERCICES-Piles-Files.pdf)
