@@ -12,4 +12,4 @@
 ### Exercices
 * [Exercices papier](EXERCICES-Piles-Files.pdf)
 * [Exercices Python](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/06/EXOS_Pile_File.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/06/EXO_PF_CORR.ipynb)
-* [Exercices pratique...](https://pratique.forge.apps.education.fr/algo/40-lineaire/10-pile/05-classe/)
+* [Exercices pratique...](https://pratique.forge.apps.education.fr/algo/40-lineaire/10-pile/05-classe/) en particulier : [filtre sur une pile](https://pratique.forge.apps.education.fr/algo/40-lineaire/10-pile/90-filtre_pile/)
