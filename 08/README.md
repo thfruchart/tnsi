@@ -13,3 +13,4 @@ Pour visualiser les arbres : https://mermaid.live/
 * [mini_maxi](https://pratique.forge.apps.education.fr/algo/50-ab/10-noeud/40-mini_maxi/)
 * [fusion_somme](https://pratique.forge.apps.education.fr/algo/50-ab/10-noeud/38-fusion_somme/)
 * et pour les aventuriers... [reconstruction](https://pratique.forge.apps.education.fr/algo/50-ab/10-noeud/85-reconstruction/)
+  * on pourra consulter ces [rappels sur les listes]((https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/08/RappelsListe.ipynb)
