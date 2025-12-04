@@ -10,5 +10,6 @@
 ## Pratique
 Pour visualiser les arbres : https://mermaid.live/ 
 * [taille_hauteur](https://pratique.forge.apps.education.fr/algo/50-ab/10-noeud/10-taille_hauteur/)
+* [mini_maxi](https://pratique.forge.apps.education.fr/algo/50-ab/10-noeud/40-mini_maxi/)
 * [fusion_somme](https://pratique.forge.apps.education.fr/algo/50-ab/10-noeud/38-fusion_somme/)
-* 
+* [reconstruction](https://pratique.forge.apps.education.fr/algo/50-ab/10-noeud/85-reconstruction/)
