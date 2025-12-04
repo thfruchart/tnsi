@@ -7,3 +7,7 @@
 * [Cours](COURS.ipynb)
 * [Exemple de parcours](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/08/ParcoursExemples.ipynb)
 * [Ex. type BAC](BAC21-Exo4-AN.pdf)
+## Pratique
+* [taille_hauteur](https://pratique.forge.apps.education.fr/algo/50-ab/10-noeud/10-taille_hauteur/)
+* [fusion_somme](https://pratique.forge.apps.education.fr/algo/50-ab/10-noeud/38-fusion_somme/)
+* 
