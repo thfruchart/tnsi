@@ -6,7 +6,9 @@
   *  [correction EXO](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/08/EXO_CORR.ipynb)
 * [Cours](COURS.ipynb)
 * [Exemple de parcours](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/08/ParcoursExemples.ipynb)
-* [Ex. type BAC](BAC21-Exo4-AN.pdf)
+### Ex. type BAC 
+* [2021](BAC21-Exo4-AN.pdf)
+* [2025](25-NSIJ2ME1-EXO1.pdf)
 ## Pratique
 Pour visualiser les arbres : https://mermaid.live/ 
 * [taille_hauteur](https://pratique.forge.apps.education.fr/algo/50-ab/10-noeud/10-taille_hauteur/)
