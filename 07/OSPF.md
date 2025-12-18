@@ -25,7 +25,7 @@ Il est plus complexe que RIP, seules les grandes lignes en seront données.
 * Un routeur E envoie des messages « Hello » à tous ses voisins. Ces messages contiennent son identificateur, ainsi que les identificateurs des voisins déjà connus. 
 * Les voisins répondent par un message qui peut être de deux types. 
    * Si le routeur E est déjà connu, le message sera un simple accusé de réception. 
-   * Si E n’est pas connu, le voisin V renvoie en envoyant les informations qu’il connaît sur la topologie du réseau (message LSA : linked state advertisement). 
+   * Si E n’est pas connu, le voisin V répond en envoyant les informations qu’il connaît sur la topologie du réseau (message LSA : linked state advertisement). 
    * Le **coût du lien à un voisin est mesuré expérimentalement**, et est également transmis. 
 
 Après plusieurs messages LSA, tous les routeurs de la zone connaissent la topologie du réseau.  
@@ -44,4 +44,5 @@ L'algorithme utilisé est celui de Dijkstra.
 * Plus complexe à mettre en place que RIP.
 * Nécessite des routeurs puissants pour le calcul et la mémorisation des chemins minimaux.
 * Ne s’adapte pas à la charge des liens : une route "rapide" peut parfois être surchargée (penser aux bouchons sur autoroute).
+
 
