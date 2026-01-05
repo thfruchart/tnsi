@@ -1,6 +1,6 @@
 # Arbres binaires de recherche
 * [Activité1](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/09/Act1.ipynb)
-* [Activité2](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/09/Act2.ipynb) => [correction](Act2_CORR.ipynb)
+* [Activité2](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/09/Act2.ipynb)
 
 ### [COURS](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/09/COURS_ABR.ipynb)
 
