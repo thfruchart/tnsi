@@ -6,7 +6,7 @@ Dans le routage dynamique :
 * dans le protocole RIP, la métrique utilisée est le nombre de sauts entre routeurs (*hop* en anglais)
 
 
-### Protocole RIP
+### Protocole RIP : Routing Information Protocol
 
 Le protocole  RIP est un protocole crée en 1983, par l’université de Californie, d'après des travaux de Bellman et Ford (1956-58). 
 Dans ce protocole :  
@@ -35,3 +35,4 @@ Une fois un nombre suffisant de messages échangés, chaque routeur a mis à jou
 * Surcharge du réseau, envoi de messages qui peuvent être lourds et fréquents (grosse consommation de bande passante).
 * Temps de convergence assez lent. Un changement sur le réseau peut mettre longtemps à être connu. Par exemple, sur un réseau de diamètre 6, il faut 180 secondes pour qu’une information à une extrémité parvienne à l’autre.
 * Métrique non optimale : certaines connexions sont plus rapides que d’autres, ce qui n’est pas pris en compte.
+
