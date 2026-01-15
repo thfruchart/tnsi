@@ -6,7 +6,7 @@ Depôt de NSI : terminale
 * [**Structures linéaires**](04)
 * [**Piles et Files**](06)
 * [**Arbres binaires**](08)
-* [Arbres binaires de recherche](09)
+* [**Arbres binaires de recherche**](09)
 * [Diviser-Régner](10)
 * [Sécurité des communications](11)
 * [Graphes](12)
