@@ -4,3 +4,4 @@
 => [CORRECTION](ACTIVITE_Complexité_CORRECTION.ipynb)
 * [COURS](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/10/COURS-diviser-regner.ipynb)
 * [TP](TP) => [correction](TP/rotation.py)
+* [triominos](https://e-nsi.gitlab.io/pratique/N3/654-pavage_triomino_2/sujet/)
