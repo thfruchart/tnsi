@@ -1,5 +1,5 @@
 def pavage_triominos(n, i_trou, j_trou):
-
+    resultat = []
     if n < 2 :
         return []
     m = n//2
