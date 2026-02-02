@@ -1,6 +1,6 @@
 # Notion de GRAPHE, 
 ## 1. représentation en Python
-* [Notebook de COURS](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/COURS.ipynb)
+* [Notebook de COURS](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/COURS_Graphes_Représentation.ipynb)
 * [Notebook d'exercices](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/EXERCICES_Graphes_Repr%C3%A9sentation.ipynb)
   * [exo 0 correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/EXO0_CORR.ipynb)
   * [exo 1 et 2 correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/EXO1_CORR.ipynb)
