@@ -9,7 +9,7 @@ Depôt de NSI : terminale
 * [**Arbres binaires de recherche**](09)
 * [**Diviser-Régner**](10)
 * [**Sécurité des communications**](11)
-* [Graphes](12)
+* [**Graphes**](12)
 * [Programmation dynamique](13)
 * [Calculabilité](14)
 * [Recherche textuelle](15)
