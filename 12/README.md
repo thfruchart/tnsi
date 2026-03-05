@@ -9,9 +9,9 @@
 * [Notebook d'exercices](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/EXERCICES_Parcourir_Graphes.ipynb) => [correction](EXERCICES_Parcourir_Graphes_CORR.ipynb)
 ### Le jeu du Taquin
 * [Le principe du jeu](Taquin)
-* [Notebook : recherche d'une meilleure solution](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/Taquin_TP.ipynb)
-  *  [TP(début)](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/TPTaquin_corr1.ipynb)
-  *  [CORRECTION : TP version1](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/TaquinTP1.ipynb)
+* Notebook : recherche d'une meilleure solution
+  *  [TP(début)](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/Taquin_TP.ipynb)
+  *  [CORRECTION : TP version1](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/TPTaquin_corr1.ipynb)
   *  [CORRECTION : TP version2](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/TaquinTP2.ipynb)
 * [Notebook : ajout d'une métrique pour améliorer la recherche](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/Taquin_avec_metrique.ipynb)
   * [version1](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/12/Taquin_avec_metriqueV1.ipynb)
