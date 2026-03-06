@@ -10,7 +10,7 @@ Depôt de NSI : terminale
 * [**Diviser-Régner**](10)
 * [**Sécurité des communications**](11)
 * [**Graphes**](12)
-* [Programmation dynamique](13)
+* [**Programmation dynamique**](13)
 * [Calculabilité](14)
 * [Recherche textuelle](15)
 ## Bases de données
