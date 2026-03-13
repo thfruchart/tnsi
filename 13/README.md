@@ -7,3 +7,4 @@
 - [nombre de chemins](https://pratique.forge.apps.education.fr/algo/30-rec/40-memo/30-chemins_grille_1/)
 - [nombres de Catalan](https://pratique.forge.apps.education.fr/algo/30-rec/40-memo/05-Catalan_1/)
 - [communication des acacias](https://pratique.forge.apps.education.fr/algo/80-adhoc/15-acacias/)
+- [minage de blocs](https://codex.forge.apps.education.fr/exercices/mineur/)
