@@ -1,3 +1,5 @@
+# https://capytale.forge.apps.education.fr/basthon/basthon-capytale/parts/auto-evaluation.html
+
 from basthon.autoeval import (
     Validate,
     ValidateVariables,
