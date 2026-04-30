@@ -11,7 +11,7 @@ Depôt de NSI : terminale
 * [**Sécurité des communications**](11)
 * [**Graphes**](12)
 * [**Programmation dynamique**](13)
-* [Calculabilité](14)
+* [**Calculabilité**](14)
 * [Recherche textuelle](15)
 ## Bases de données
 * [**langage SQL et notion de base de données**](02)
