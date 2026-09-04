@@ -4,7 +4,7 @@ Depôt de NSI : terminale
 [](###Nuitducode*[documentation-pyxel.pdf](documentation-pyxel.pdf)*[regles-et-conseils-python.pdf](regles-et-conseils-python.pdf))
 
 ## Programmation et Algorithmique
-* [Récursivité](./01)
+* [**Récursivité**](01)
 * [Programmation Objet](03)
 * [Structures linéaires](04)
 * [Piles et Files](06)
