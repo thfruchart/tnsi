@@ -8,7 +8,7 @@
 * [exemple6](https://pythontutor.com/visualize.html#code=def%20copy%28a%20%3Aint%20,b%20%3A%20str%29%3A%0A%20%20%20%20if%20a%3D%3D1%3A%0A%20%20%20%20%20%20%20%20return%20b%0A%20%20%20%20else%20%3A%0A%20%20%20%20%20%20%20%20return%20copy%28%20a-1%20,%20b%2Bb%29%0A%0Aprint%28copy%283,'%3F'%29%29&cumulative=false&curInstr=1&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
 
 ### COURS
-* [](RECURSIVITE_COURS.ipynb)
+* [COURS](RECURSIVITE_COURS.ipynb)
 
 #### [travail personnel](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi-2025/main/01/RECURSIVITE_TRAVAIL_PERSO.ipynb)
 
