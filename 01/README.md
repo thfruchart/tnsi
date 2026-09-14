@@ -19,6 +19,8 @@
 
 #### [AlgoPratique](https://pratique.forge.apps.education.fr/algo/30-rec/)
 * [somme_chiffres](https://pratique.forge.apps.education.fr/algo/30-rec/30-maths/30-somme_chiffres/)
+* [nb_bits1](https://pratique.forge.apps.education.fr/algo/30-rec/30-maths/32-nb_bits1/)
+* [Bijection-N-N²](https://pratique.forge.apps.education.fr/algo/30-rec/30-maths/80-N2/)
 #### QCM 
 * [entraînement](https://genumsi.inria.fr/qcm.php?h=cf4244c08fa38c7c0e611edfac246f7b)
 * [EVALUATION Récursion](https://genumsi.inria.fr/qcm.php?h=69636eaa4f022e4695c3443fc14907e5)
