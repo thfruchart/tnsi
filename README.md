@@ -1,6 +1,6 @@
 # tnsi
 Depôt de NSI : terminale
-
+-[pratique : dictionnaires](https://pratique.forge.apps.education.fr/algo/20-balai/40-dict/RAPPELS/)
 [](###Nuitducode*[documentation-pyxel.pdf](documentation-pyxel.pdf)*[regles-et-conseils-python.pdf](regles-et-conseils-python.pdf))
 
 ## Programmation et Algorithmique
