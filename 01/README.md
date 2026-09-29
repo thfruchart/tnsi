@@ -26,3 +26,6 @@
 * [EVALUATION Récursion](https://genumsi.inria.fr/qcm.php?h=69636eaa4f022e4695c3443fc14907e5)
 
 #### retour sur le [problème du sac à dos](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/src-tnsi/main/01/PbSacADos.ipynb)  => correction[](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/src-tnsi/main/01/PbSacADos_correction.ipynb)
+
+## TP (en mode projet)
+- [Parcours diviseurs/multiples](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/src-tnsi/main/proj/MultiDiv-projet.ipynb)
