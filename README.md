@@ -7,7 +7,7 @@ Depôt de NSI : terminale
 
 ## Programmation et Algorithmique
 * [**Récursivité**](01)
-* [Programmation Objet](03)
+* [**Programmation Objet**](03)
 * [Structures linéaires](04)
 * [Piles et Files](06)
 * [Arbres binaires](08)
